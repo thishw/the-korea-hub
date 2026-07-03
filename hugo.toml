@@ -1,0 +1,14 @@
+baseURL = "https://this-hw.github.io/the-korea-hub/"
+title = "The Korea Hub"
+defaultContentLanguage = "en"
+languageCode = "en-US"
+enableRobotsTXT = true
+timeZone = "Asia/Seoul"
+
+[params]
+  description = "English-language guides and data-driven stories on Korean local businesses, neighborhoods, and city life."
+  # G-GTM: 실 컨테이너 ID 발급 전 placeholder — 빈 값이면 GTM 스니펫 미출력
+  gtm_id = ""
+
+[pagination]
+  pagerSize = 20
